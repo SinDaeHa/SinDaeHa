@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, World! 👋
 
 <div align=center>
 
@@ -15,3 +15,5 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-round&logo=Instagram&logoColor=white&link=https://www.instagram.com/shindaeha)](https://www.instagram.com/shindaeha)
 
 </div><!--
+
+[![gitanimals](https://render.gitanimals.org/farms/SinDaeHa)](https://github.com/devxb/gitanimals)

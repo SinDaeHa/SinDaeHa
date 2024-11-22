@@ -3,7 +3,7 @@
 
 ## Introduce
 
-### ChungAng University Art&Tech FreshMan
+### Chungang University Art&Tech FreshMan
 - Currently Studying C++, Python
 - I plan to gain more experience and decide on a career path.
 - Collaboration proposals are always welcome.

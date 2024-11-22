@@ -1,15 +1,24 @@
 ## Hello, World! 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2b64b0,100:66ae7b&height=120&fontColor=E6E6FA&fontAlign=50&animation=fadeIn&section=footer&text=SinDaeHa&fontAlign=70)
 
-<div align=center>
+## Introduce
+
+### ChungAng University Art&Tech FreshMan
+- Currently Studying C++, Python
+- I plan to gain more experience and decide on a career path.
+
+### Interest
+- Front-End, Back-End
+- Deep learning AI
+- Leadership, Writing
+
+### Stats
+<div align=left>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSinDaeHa&count_bg=%230045A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-## Introduce
-
-### ChungAng University Art&Tech FreshMan
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SinDaeHa)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Links
 <div align=center>

@@ -6,7 +6,7 @@
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@SinDaeHa)](https://www.youtube.com/@SinDaeHa)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bagminseo768@gmail.com)](bagminseo768@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bagminseo768@gmail.com)](mailto:bagminseo768@gmail.com)
 
 </div><!--
 

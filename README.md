@@ -1,5 +1,5 @@
 ## Hello, World! 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00547f&height=150&section=header&text=SinDaeHa%20render&fontSize=90)
 
 <div align=center>
 

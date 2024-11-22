@@ -8,7 +8,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bagminseo768@gmail.com)](mailto:bagminseo768@gmail.com)
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-1877f2?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/shindaeha)](https://www.instagram.com/shindaeha)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/shindaeha)](https://www.instagram.com/shindaeha)
 
 </div><!--
 

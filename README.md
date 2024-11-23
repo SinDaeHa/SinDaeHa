@@ -21,7 +21,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SinDaeHa)](https://github.com/anuraghazra/github-readme-stats)
 
-### Links
 <div align=center>
   
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-round&logo=youtube&link=https://www.youtube.com/@SinDaeHa)](https://www.youtube.com/@SinDaeHa)
